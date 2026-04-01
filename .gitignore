@@ -1,0 +1,6 @@
+.env
+cache/
+__pycache__/
+.venv311/
+hf_login.py
+*.pyc
