@@ -17,7 +17,7 @@ Standard RAG retrieves the most semantically similar content. TechPulse adds a s
 
 TRIBE v2 predicted cortical response for the query "US Iran war military strikes":
 
-![Brain Comparison](brain_comparison.png)
+![Brain Comparison](brain_comparison2.png)
 
 Al Jazeera's "Day 30 of attacks" framing produces significantly higher cortical activation than CNN's nuclear policy analysis — consistent with the difference between immediate conflict reporting and deliberative strategic framing.
 
